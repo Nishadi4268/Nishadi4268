@@ -4,12 +4,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Nishadi%20Weerasinghe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Nishadi4268.png" width="180" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=8"/>
+</p>
+
+
 <h3 align="center">
 🚀 Full Stack Engineer • 🤖 AI/ML Developer • 🧠 System Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Next.js+Production+Engineer;AI+%2F+ML+System+Builder;Scalable+Architecture+Designer;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;MERN+%7C+Next.js+Developer;AI+%2F+ML+System+Builder;Scalable+Web+Application+Developer;Problem+Solver+%7C+System+Thinker" />
 </p>
 
 <p align="center">
