@@ -1,76 +1,87 @@
 <h1 align="center">Hi 👋 I'm Nishadi Weerasinghe</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Engineer (MERN | Next.js) • AI/ML Builder • Systems Thinker
+</h3>
 
 <p align="center">
   <a href="mailto:nishadis576@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/nishadi-weerasinghe-15963320a/">LinkedIn</a> •
-  <a href="https://nishadi4268.github.io/personal-portfolio/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/nishadi-weerasingha-15963320a/">LinkedIn</a> •
+  <a href="https://nishadi4268.github.io/personal-portfolio/">Portfolio</a> •
+  <a href="https://github.com/Nishadi4268">GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 Computer Engineering Graduate – University of Ruhuna  
-💼 Software Engineer Intern @ Botcalm  
-💻 Specialized in MERN Stack, Next.js & AI/ML Systems  
-⚡ Passionate about building scalable real-world applications  
-🌱 Exploring Cloud, DevOps & Intelligent Systems  
+## 🚀 Professional Summary
+
+I am a **Computer Engineering graduate** focused on building **scalable full-stack systems and AI-powered applications**.
+
+I specialize in turning ideas into production-ready systems using modern web technologies and machine learning workflows. My strength lies in combining **software engineering + AI integration + clean system design**.
+
+- 💡 Full Stack Development (MERN, Next.js, REST APIs)
+- 🤖 AI/ML Systems (Computer Vision, NLP, Deep Learning)
+- ⚙️ Scalable Backend Architecture & Database Design
+- 🚀 Deployment, Optimization & Production Engineering
+
+---
+
+## 🧠 What I Bring
+
+✔ End-to-end product development (UI → Backend → AI integration → Deployment)  
+✔ Strong system design & problem-solving mindset  
+✔ Experience building real-world academic + production-grade systems  
+✔ Ability to integrate ML models into web applications  
+✔ Clean, maintainable, scalable code practices  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+### Languages
+JavaScript • TypeScript • Python • C++
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+### Frontend
+React • Next.js • Tailwind CSS
 
-### 🔧 Backend
-![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+### Backend
+Node.js • Express • MongoDB • REST APIs
 
-### 🤖 AI / ML
+### AI / ML
 TensorFlow • PyTorch • OpenCV • YOLO • Scikit-learn • NLP
 
-### ⚙️ Tools
-Git • GitHub • CI/CD • Docker • Firebase • Agile/Scrum
+### Dev Tools
+Git • GitHub • Docker • Firebase • CI/CD • Agile/Scrum
 
 ---
 
-## ⭐ Featured Projects
+## 📌 Featured Projects
 
 ### 🤖 AI Customer Support Chatbot
-Real-time chatbot with conversation state management and RESTful APIs  
-🔗 https://github.com/Nishadi4268/AI-Powered-Customer-Support-Chatbot
+A real-time AI chatbot with conversation memory, REST API integration, and scalable backend architecture.  
+👉 https://github.com/Nishadi4268/AI-Powered-Customer-Support-Chatbot  
 
 ---
 
-### 🎥 CCTV Abnormal Event Detection (FYP)
-Multi-camera surveillance system using Computer Vision + ML + YOLO  
-🔗 https://github.com/PRSN-Labs/Anomaly-Detection-CCTV-FYP
+### 🎥 CCTV Abnormal Event Detection (Final Year Project)
+AI-powered multi-camera surveillance system using YOLO-based object detection for anomaly detection in real time.  
+👉 https://github.com/PRSN-Labs/Anomaly-Detection-CCTV-FYP  
 
 ---
 
-### 🥛 Dairy Store Room Management (MERN)
-Full-stack inventory + role-based access system  
-🔗 https://github.com/Nishadi4268/Dairy-Food-Store-Room-Management-System-3rd-year-
+### 🥛 Inventory & Store Management System (MERN)
+Full-stack system with authentication, role-based access control, and inventory tracking for real business workflow simulation.  
+👉 https://github.com/Nishadi4268/Dairy-Food-Store-Room-Management-System-3rd-year-  
 
 ---
 
-### ✏️ Hand Sketch → Image Generator (Deep Learning)
-Sketch recognition & colorization using diffusion models  
-🔗 https://github.com/Nishadi4268/Handsketch-regognition-and-colorization-with-gray-scale-conversion
+### ✏️ Sketch to Image Generation (Deep Learning)
+Deep learning system for sketch recognition and image colorization using diffusion-based techniques.  
+👉 https://github.com/Nishadi4268/Handsketch-regognition-and-colorization-with-gray-scale-conversion  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishadi4268&show_icons=true&theme=tokyonight" height="160"/>
@@ -79,20 +90,31 @@ Sketch recognition & colorization using diffusion models
 
 ---
 
-## 🔥 Experience Highlights
-✔ Built and deployed production MERN applications  
-✔ Designed REST APIs & optimized performance  
-✔ Worked in Agile/Scrum teams  
-✔ Implemented ML + Deep Learning solutions  
-✔ Strong problem solving & system design mindset  
+## 💼 Experience Highlights
+
+- Built full-stack applications using MERN & Next.js
+- Designed and implemented RESTful APIs and backend services
+- Developed AI/ML-based computer vision systems
+- Worked in Agile team environments
+- Deployed production-ready applications
 
 ---
 
-## 📫 Contact Me
-📧 nishadis576@gmail.com  
-💼 LinkedIn: /nishadi-weerasinghe-15963320a  
+## 🎯 Career Focus
+
+Actively seeking opportunities in:
+- Software Engineering (Full Stack / Backend)
+- AI / ML Engineering
+- Scalable Web Systems & Cloud-based Applications
+
+---
+
+## 📫 Contact
+
+📧 Email: nishadis576@gmail.com  
+💼 LinkedIn: linkedin.com/in/nishadi-weerasinghe-15963320a  
 🌐 Portfolio: nishadi4268.github.io/personal-portfolio  
 
 ---
 
-⭐ *Always open to Software Engineering & AI/ML opportunities*
+⭐ *Open to Software Engineering and AI/ML opportunities where I can contribute to real-world scalable systems.*
