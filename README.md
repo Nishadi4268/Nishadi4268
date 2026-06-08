@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋 I'm Nishadi Weerasinghe</h1>
 
 <h3 align="center">
-Full Stack Engineer (MERN | Next.js) • AI/ML Builder • Systems Thinker
+🚀 Full Stack Engineer (MERN | Next.js) • 🤖 AI/ML Builder • 🧠 Systems Thinker
 </h3>
 
 <p align="center">
-  <a href="mailto:nishadis576@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/nishadi-weerasingha-15963320a/">LinkedIn</a> •
-  <a href="https://nishadi4268.github.io/personal-portfolio/">Portfolio</a> •
-  <a href="https://github.com/Nishadi4268">GitHub</a>
+  <a href="mailto:nishadis576@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/nishadi-weerasingha-15963320a/">💼 LinkedIn</a> •
+  <a href="https://nishadi4268.github.io/personal-portfolio/">🌐 Portfolio</a> •
+  <a href="https://github.com/Nishadi4268">🐙 GitHub</a>
 </p>
 
 ---
+### ⚡ Animated Intro
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Engineer;AI+%2F+ML+Enthusiast;System+Design+Learner;Scalable+Application+Builder" />
+</p>
+
+---
+
 
 ## 🚀 Professional Summary
 
