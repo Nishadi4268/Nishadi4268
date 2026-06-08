@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Nishadi4268.png" width="180" height="180" />
+  <img src="https://github.com/Nishadi4268.png" width="180" height="180" style="border-radius:50%; border: 5px solid transparent; background: linear-gradient(white, white) padding-box, linear-gradient(45deg,#0ea5e9,#6366f1,#8b5cf6) border-box;" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=15"/>
 </p>
 
 
