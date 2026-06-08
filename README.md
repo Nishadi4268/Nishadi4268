@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋 I'm Nishadi Weerasinghe</h1>
+<!-- ================= HEADER ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Nishadi%20Weerasinghe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h3 align="center">
-🚀 Full Stack Engineer (MERN | Next.js) • 🤖 AI/ML Builder • 🧠 Systems Thinker
+🚀 Full Stack Engineer • 🤖 AI/ML Developer • 🧠 System Builder
 </h3>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Next.js+Production+Engineer;AI+%2F+ML+System+Builder;Scalable+System+Designer;Clean+Code+Engineer" />
+</p>
+
+<!-- ================= LINKS ================= -->
 
 <p align="center">
   <a href="mailto:nishadis576@gmail.com">📧 Email</a> •
@@ -12,13 +24,37 @@
 </p>
 
 ---
-### ⚡ Animated Intro
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Engineer;AI+%2F+ML+Enthusiast;System+Design+Learner;Scalable+Application+Builder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishadi4268&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishadi4268&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishadi4268&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
+## ⚡ About Me
+
+```yaml
+name: Nishadi Weerasinghe
+role: Full Stack Engineer
+education: Computer Engineering Graduate
+focus:
+  - Full Stack Development (MERN, Next.js)
+  - AI / Machine Learning Systems
+  - Scalable Backend Architecture
+  - Production-Level Applications
+
+mindset: "I build systems, not just projects."
 
 ## 🚀 Professional Summary
 
